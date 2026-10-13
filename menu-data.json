@@ -1,0 +1,953 @@
+{
+  "publishedAt": null,
+  "items": [
+    {
+      "name": "SMALL BURGER",
+      "category": "Burgers & Chicken",
+      "contains": [
+        "Soy",
+        "Wheat"
+      ],
+      "mayContain": [],
+      "source": "Soy, Wheat"
+    },
+    {
+      "name": "REGULAR BURGER",
+      "category": "Burgers & Chicken",
+      "contains": [
+        "Soy",
+        "Wheat"
+      ],
+      "mayContain": [],
+      "source": "Soy, Wheat"
+    },
+    {
+      "name": "BIG DOUBLE BURGER",
+      "category": "Burgers & Chicken",
+      "contains": [
+        "Soy",
+        "Wheat"
+      ],
+      "mayContain": [],
+      "source": "Soy, Wheat"
+    },
+    {
+      "name": "HUGE BURGER",
+      "category": "Burgers & Chicken",
+      "contains": [
+        "Soy",
+        "Wheat"
+      ],
+      "mayContain": [],
+      "source": "Soy, Wheat"
+    },
+    {
+      "name": "COOK OUT STYLE",
+      "category": "Burgers & Chicken",
+      "contains": [
+        "Soy",
+        "Eggs",
+        "Wheat"
+      ],
+      "mayContain": [],
+      "source": "Soy, Eggs, Wheat"
+    },
+    {
+      "name": "CHEDDAR STYLE",
+      "category": "Burgers & Chicken",
+      "contains": [
+        "Soy",
+        "Eggs",
+        "Milk"
+      ],
+      "mayContain": [],
+      "source": "Soy, Eggs, Milk"
+    },
+    {
+      "name": "OUTWEST STYLE",
+      "category": "Burgers & Chicken",
+      "contains": [
+        "Soy",
+        "Eggs"
+      ],
+      "mayContain": [],
+      "source": "Soy, Eggs"
+    },
+    {
+      "name": "STEAK STYLE",
+      "category": "Burgers & Chicken",
+      "contains": [
+        "Soy",
+        "Eggs"
+      ],
+      "mayContain": [],
+      "source": "Soy, Eggs"
+    },
+    {
+      "name": "HOUSE STYLE",
+      "category": "Burgers & Chicken",
+      "contains": [
+        "Soy",
+        "Eggs",
+        "Milk"
+      ],
+      "mayContain": [],
+      "source": "Soy, Eggs, Milk"
+    },
+    {
+      "name": "NACHO CHILI STYLE",
+      "category": "Burgers & Chicken",
+      "contains": [
+        "Soy",
+        "Milk",
+        "Wheat"
+      ],
+      "mayContain": [],
+      "source": "Soy, Milk, Wheat"
+    },
+    {
+      "name": "MAX STYLE",
+      "category": "Burgers & Chicken",
+      "contains": [
+        "Soy",
+        "Eggs",
+        "Milk"
+      ],
+      "mayContain": [],
+      "source": "Soy, Eggs, Milk"
+    },
+    {
+      "name": "SPICY CHICKEN SANDWICH",
+      "category": "Burgers & Chicken",
+      "contains": [
+        "Soy",
+        "Eggs",
+        "Wheat"
+      ],
+      "mayContain": [],
+      "source": "Soy, Eggs, Wheat"
+    },
+    {
+      "name": "CHICKEN STRIP SANDWICH",
+      "category": "Burgers & Chicken",
+      "contains": [
+        "Soy",
+        "Eggs",
+        "Milk",
+        "Wheat"
+      ],
+      "mayContain": [],
+      "source": "Soy, Eggs, Milk, Wheat"
+    },
+    {
+      "name": "CHICKEN STRIP CLUB",
+      "category": "Burgers & Chicken",
+      "contains": [
+        "Soy",
+        "Eggs",
+        "Milk",
+        "Wheat"
+      ],
+      "mayContain": [],
+      "source": "Soy, Eggs, Milk, Wheat"
+    },
+    {
+      "name": "REG CHICKEN SANDWICH",
+      "category": "Burgers & Chicken",
+      "contains": [
+        "Soy",
+        "Milk",
+        "Wheat"
+      ],
+      "mayContain": [],
+      "source": "Soy, Milk, Wheat"
+    },
+    {
+      "name": "CAJUN STYLE",
+      "category": "Burgers & Chicken",
+      "contains": [
+        "Soy",
+        "Eggs"
+      ],
+      "mayContain": [],
+      "source": "Soy, Eggs"
+    },
+    {
+      "name": "ORIGINAL STYLE",
+      "category": "Burgers & Chicken",
+      "contains": [
+        "Soy",
+        "Eggs"
+      ],
+      "mayContain": [],
+      "source": "Soy, Eggs"
+    },
+    {
+      "name": "BARBEQUE STYLE",
+      "category": "Burgers & Chicken",
+      "contains": [
+        "Soy",
+        "Eggs"
+      ],
+      "mayContain": [],
+      "source": "Soy, Eggs"
+    },
+    {
+      "name": "CLUB STYLE",
+      "category": "Burgers & Chicken",
+      "contains": [
+        "Soy",
+        "Eggs",
+        "Milk"
+      ],
+      "mayContain": [],
+      "source": "Soy, Eggs, Milk"
+    },
+    {
+      "name": "HOMEMADE STYLE",
+      "category": "Burgers & Chicken",
+      "contains": [
+        "Soy",
+        "Eggs",
+        "Milk"
+      ],
+      "mayContain": [],
+      "source": "Soy, Eggs, Milk"
+    },
+    {
+      "name": "BACON",
+      "category": "Toppings, Sauces & Condiments",
+      "contains": [
+        "Soy"
+      ],
+      "mayContain": [],
+      "source": "Soy"
+    },
+    {
+      "name": "HOMEMADE CHILI",
+      "category": "Toppings, Sauces & Condiments",
+      "contains": [
+        "Wheat"
+      ],
+      "mayContain": [],
+      "source": "Wheat"
+    },
+    {
+      "name": "CHEESE SLICE",
+      "category": "Toppings, Sauces & Condiments",
+      "contains": [
+        "Milk"
+      ],
+      "mayContain": [],
+      "source": "Milk"
+    },
+    {
+      "name": "CHEDDAR CHEESE",
+      "category": "Toppings, Sauces & Condiments",
+      "contains": [
+        "Soy",
+        "Milk"
+      ],
+      "mayContain": [],
+      "source": "Soy, Milk"
+    },
+    {
+      "name": "HOMEMADE SLAW",
+      "category": "Toppings, Sauces & Condiments",
+      "contains": [
+        "Soy",
+        "Eggs"
+      ],
+      "mayContain": [],
+      "source": "Soy, Eggs"
+    },
+    {
+      "name": "QUESADILLA SAUCE",
+      "category": "Toppings, Sauces & Condiments",
+      "contains": [
+        "Soy",
+        "Eggs",
+        "Milk"
+      ],
+      "mayContain": [],
+      "source": "Soy, Eggs, Milk"
+    },
+    {
+      "name": "JALAPENOS",
+      "category": "Toppings, Sauces & Condiments",
+      "contains": [
+        "Soy"
+      ],
+      "mayContain": [],
+      "source": "Soy"
+    },
+    {
+      "name": "CUP OF CHEDDAR CHEESE",
+      "category": "Toppings, Sauces & Condiments",
+      "contains": [
+        "Soy",
+        "Milk"
+      ],
+      "mayContain": [],
+      "source": "Soy, Milk"
+    },
+    {
+      "name": "CUP OF SLAW",
+      "category": "Toppings, Sauces & Condiments",
+      "contains": [
+        "Soy",
+        "Eggs"
+      ],
+      "mayContain": [],
+      "source": "Soy, Eggs"
+    },
+    {
+      "name": "CUP OF CHILI",
+      "category": "Toppings, Sauces & Condiments",
+      "contains": [
+        "Wheat"
+      ],
+      "mayContain": [],
+      "source": "Wheat"
+    },
+    {
+      "name": "SOUR CREAM",
+      "category": "Toppings, Sauces & Condiments",
+      "contains": [
+        "Milk"
+      ],
+      "mayContain": [],
+      "source": "Milk"
+    },
+    {
+      "name": "HOT DOG",
+      "category": "Hot Dogs & BBQ",
+      "contains": [
+        "Soy",
+        "Wheat"
+      ],
+      "mayContain": [],
+      "source": "Soy, Wheat"
+    },
+    {
+      "name": "SLAW DOG",
+      "category": "Hot Dogs & BBQ",
+      "contains": [
+        "Soy",
+        "Eggs",
+        "Wheat"
+      ],
+      "mayContain": [],
+      "source": "Soy, Eggs, Wheat"
+    },
+    {
+      "name": "CHILI DOG",
+      "category": "Hot Dogs & BBQ",
+      "contains": [
+        "Soy",
+        "Wheat"
+      ],
+      "mayContain": [],
+      "source": "Soy, Wheat"
+    },
+    {
+      "name": "COOK OUT STYLE HOT DOG",
+      "category": "Hot Dogs & BBQ",
+      "contains": [
+        "Soy",
+        "Eggs",
+        "Wheat"
+      ],
+      "mayContain": [],
+      "source": "Soy, Eggs, Wheat"
+    },
+    {
+      "name": "BACON CHEDDAR HOT DOG",
+      "category": "Hot Dogs & BBQ",
+      "contains": [
+        "Soy",
+        "Milk",
+        "Wheat"
+      ],
+      "mayContain": [],
+      "source": "Soy, Milk, Wheat"
+    },
+    {
+      "name": "MEXI DOG",
+      "category": "Hot Dogs & BBQ",
+      "contains": [
+        "Soy",
+        "Milk",
+        "Wheat"
+      ],
+      "mayContain": [],
+      "source": "Soy, Milk, Wheat"
+    },
+    {
+      "name": "REG BBQ SAND",
+      "category": "Hot Dogs & BBQ",
+      "contains": [
+        "Soy",
+        "Eggs",
+        "Wheat"
+      ],
+      "mayContain": [],
+      "source": "Soy, Eggs, Wheat"
+    },
+    {
+      "name": "BBQ PLATE",
+      "category": "Hot Dogs & BBQ",
+      "contains": [
+        "Soy",
+        "Eggs",
+        "Milk",
+        "Wheat"
+      ],
+      "mayContain": [],
+      "source": "Soy, Eggs, Milk, Wheat"
+    },
+    {
+      "name": "CAJUN FRIES",
+      "category": "Sides & Wraps",
+      "contains": [
+        "Soy"
+      ],
+      "mayContain": [],
+      "source": "Soy"
+    },
+    {
+      "name": "REGULAR FRIES",
+      "category": "Sides & Wraps",
+      "contains": [
+        "Soy"
+      ],
+      "mayContain": [],
+      "source": "Soy"
+    },
+    {
+      "name": "LARGE FRIES",
+      "category": "Sides & Wraps",
+      "contains": [
+        "Soy"
+      ],
+      "mayContain": [],
+      "source": "Soy"
+    },
+    {
+      "name": "CHEESE FRIES",
+      "category": "Sides & Wraps",
+      "contains": [
+        "Soy",
+        "Milk"
+      ],
+      "mayContain": [],
+      "source": "Soy, Milk"
+    },
+    {
+      "name": "CHILI CHEESE FRIES",
+      "category": "Sides & Wraps",
+      "contains": [
+        "Soy",
+        "Milk",
+        "Wheat"
+      ],
+      "mayContain": [],
+      "source": "Soy, Milk, Wheat"
+    },
+    {
+      "name": "JALAPENO CHEESE FRIES",
+      "category": "Sides & Wraps",
+      "contains": [
+        "Soy",
+        "Milk"
+      ],
+      "mayContain": [],
+      "source": "Soy, Milk"
+    },
+    {
+      "name": "CORN DOG",
+      "category": "Sides & Wraps",
+      "contains": [
+        "Soy",
+        "Eggs",
+        "Milk",
+        "Wheat"
+      ],
+      "mayContain": [],
+      "source": "Soy, Eggs, Milk, Wheat"
+    },
+    {
+      "name": "HUSHPUPPIES",
+      "category": "Sides & Wraps",
+      "contains": [
+        "Soy",
+        "Eggs",
+        "Milk",
+        "Wheat"
+      ],
+      "mayContain": [],
+      "source": "Soy, Eggs, Milk, Wheat"
+    },
+    {
+      "name": "BACON RANCH WRAP",
+      "category": "Sides & Wraps",
+      "contains": [
+        "Soy",
+        "Eggs",
+        "Milk",
+        "Wheat"
+      ],
+      "mayContain": [],
+      "source": "Soy, Eggs, Milk, Wheat"
+    },
+    {
+      "name": "CHICKEN NUGGETS",
+      "category": "Sides & Wraps",
+      "contains": [
+        "Soy",
+        "Eggs",
+        "Milk",
+        "Wheat"
+      ],
+      "mayContain": [],
+      "source": "Soy, Eggs, Milk, Wheat"
+    },
+    {
+      "name": "CHEESE QUESADILLA",
+      "category": "Sides & Wraps",
+      "contains": [
+        "Soy",
+        "Eggs",
+        "Milk",
+        "Wheat"
+      ],
+      "mayContain": [],
+      "source": "Soy, Eggs, Milk, Wheat"
+    },
+    {
+      "name": "CHICKEN QUESADILLA",
+      "category": "Sides & Wraps",
+      "contains": [
+        "Soy",
+        "Eggs",
+        "Milk",
+        "Wheat"
+      ],
+      "mayContain": [],
+      "source": "Soy, Eggs, Milk, Wheat"
+    },
+    {
+      "name": "BEEF QUESADILLA",
+      "category": "Sides & Wraps",
+      "contains": [
+        "Soy",
+        "Eggs",
+        "Milk",
+        "Wheat"
+      ],
+      "mayContain": [],
+      "source": "Soy, Eggs, Milk, Wheat"
+    },
+    {
+      "name": "BLT",
+      "category": "Sides & Wraps",
+      "contains": [
+        "Soy",
+        "Eggs",
+        "Wheat"
+      ],
+      "mayContain": [],
+      "source": "Soy, Eggs, Wheat"
+    },
+    {
+      "name": "OKRA",
+      "category": "Sides & Wraps",
+      "contains": [
+        "Soy",
+        "Milk",
+        "Wheat"
+      ],
+      "mayContain": [],
+      "source": "Soy, Milk, Wheat"
+    },
+    {
+      "name": "ONION RINGS",
+      "category": "Sides & Wraps",
+      "contains": [
+        "Soy",
+        "Milk",
+        "Wheat"
+      ],
+      "mayContain": [],
+      "source": "Soy, Milk, Wheat"
+    },
+    {
+      "name": "WHITE CHEDDAR CHEESE BITES",
+      "category": "Sides & Wraps",
+      "contains": [
+        "Soy",
+        "Milk",
+        "Wheat"
+      ],
+      "mayContain": [],
+      "source": "Soy, Milk, Wheat"
+    },
+    {
+      "name": "WALKIN TACO",
+      "category": "Sides & Wraps",
+      "contains": [
+        "Soy",
+        "Milk",
+        "Wheat"
+      ],
+      "mayContain": [],
+      "source": "Soy, Milk, Wheat"
+    },
+    {
+      "name": "SPICY WRAP",
+      "category": "Sides & Wraps",
+      "contains": [
+        "Soy",
+        "Eggs",
+        "Milk",
+        "Wheat"
+      ],
+      "mayContain": [],
+      "source": "Soy, Eggs, Milk, Wheat"
+    },
+    {
+      "name": "CAJUN WRAP",
+      "category": "Sides & Wraps",
+      "contains": [
+        "Soy",
+        "Eggs",
+        "Milk",
+        "Wheat"
+      ],
+      "mayContain": [],
+      "source": "Soy, Eggs, Milk, Wheat"
+    },
+    {
+      "name": "RANCH WRAP",
+      "category": "Sides & Wraps",
+      "contains": [
+        "Soy",
+        "Eggs",
+        "Milk",
+        "Wheat"
+      ],
+      "mayContain": [],
+      "source": "Soy, Eggs, Milk, Wheat"
+    },
+    {
+      "name": "CAJUN RANCH WRAP",
+      "category": "Sides & Wraps",
+      "contains": [
+        "Soy",
+        "Eggs",
+        "Milk",
+        "Wheat"
+      ],
+      "mayContain": [],
+      "source": "Soy, Eggs, Milk, Wheat"
+    },
+    {
+      "name": "HONEY MUSTARD WRAP",
+      "category": "Sides & Wraps",
+      "contains": [
+        "Soy",
+        "Eggs",
+        "Milk",
+        "Wheat"
+      ],
+      "mayContain": [],
+      "source": "Soy, Eggs, Milk, Wheat"
+    },
+    {
+      "name": "CHICKEN STRIP SNACK",
+      "category": "Sides & Wraps",
+      "contains": [
+        "Soy",
+        "Eggs",
+        "Milk",
+        "Wheat"
+      ],
+      "mayContain": [],
+      "source": "Soy, Eggs, Milk, Wheat"
+    },
+    {
+      "name": "CHEESECAKE",
+      "category": "Shakes & Desserts",
+      "contains": [
+        "Soy",
+        "Eggs",
+        "Milk",
+        "Wheat"
+      ],
+      "mayContain": [],
+      "source": "Soy, Eggs, Milk, Wheat"
+    },
+    {
+      "name": "Mayonnaise",
+      "category": "Toppings, Sauces & Condiments",
+      "contains": [
+        "Soy",
+        "Eggs"
+      ],
+      "mayContain": [],
+      "source": "Soy, Eggs"
+    },
+    {
+      "name": "Ranch",
+      "category": "Toppings, Sauces & Condiments",
+      "contains": [
+        "Soy",
+        "Eggs",
+        "Milk"
+      ],
+      "mayContain": [],
+      "source": "Soy, Eggs, Milk"
+    },
+    {
+      "name": "Honey Mustard",
+      "category": "Toppings, Sauces & Condiments",
+      "contains": [
+        "Soy",
+        "Eggs"
+      ],
+      "mayContain": [],
+      "source": "Soy, Eggs"
+    },
+    {
+      "name": "Cookout Sauce sauce packets",
+      "category": "Toppings, Sauces & Condiments",
+      "contains": [
+        "Soy",
+        "Eggs"
+      ],
+      "mayContain": [],
+      "source": "Soy, Eggs"
+    },
+    {
+      "name": "Honey Mustard sauce packets",
+      "category": "Toppings, Sauces & Condiments",
+      "contains": [
+        "Soy",
+        "Eggs"
+      ],
+      "mayContain": [],
+      "source": "Soy, Eggs"
+    },
+    {
+      "name": "Polynesian sauce packets",
+      "category": "Toppings, Sauces & Condiments",
+      "contains": [
+        "Soy"
+      ],
+      "mayContain": [],
+      "source": "Soy"
+    },
+    {
+      "name": "Ranch sauce packets",
+      "category": "Toppings, Sauces & Condiments",
+      "contains": [
+        "Soy",
+        "Eggs",
+        "Milk"
+      ],
+      "mayContain": [],
+      "source": "Soy, Eggs, Milk"
+    },
+    {
+      "name": "Buffalo sauce packets",
+      "category": "Toppings, Sauces & Condiments",
+      "contains": [
+        "Soy"
+      ],
+      "mayContain": [],
+      "source": "Soy"
+    },
+    {
+      "name": "SHAKE",
+      "category": "Shakes & Desserts",
+      "contains": [
+        "Milk"
+      ],
+      "mayContain": [],
+      "source": "Milk"
+    },
+    {
+      "name": "COKE FLOAT",
+      "category": "Shakes & Desserts",
+      "contains": [
+        "Milk"
+      ],
+      "mayContain": [],
+      "source": "Milk"
+    },
+    {
+      "name": "CHEERWINE FLOAT",
+      "category": "Shakes & Desserts",
+      "contains": [
+        "Milk"
+      ],
+      "mayContain": [],
+      "source": "Milk"
+    },
+    {
+      "name": "Chocolate Chip",
+      "category": "Shakes & Desserts",
+      "contains": [
+        "Milk"
+      ],
+      "mayContain": [],
+      "source": "Milk"
+    },
+    {
+      "name": "Malt",
+      "category": "Shakes & Desserts",
+      "contains": [
+        "Milk",
+        "Wheat"
+      ],
+      "mayContain": [
+        "Soy"
+      ],
+      "source": "Milk, Wheat, may contain Soy"
+    },
+    {
+      "name": "Peanut Butter",
+      "category": "Shakes & Desserts",
+      "contains": [
+        "Soy",
+        "Peanuts"
+      ],
+      "mayContain": [],
+      "source": "Soy, Peanuts"
+    },
+    {
+      "name": "Caramel",
+      "category": "Shakes & Desserts",
+      "contains": [
+        "Milk"
+      ],
+      "mayContain": [
+        "Soy"
+      ],
+      "source": "Milk, may contain Soy"
+    },
+    {
+      "name": "Fudge",
+      "category": "Shakes & Desserts",
+      "contains": [
+        "Soy",
+        "Milk"
+      ],
+      "mayContain": [],
+      "source": "Soy, Milk"
+    },
+    {
+      "name": "Heath",
+      "category": "Shakes & Desserts",
+      "contains": [
+        "Soy",
+        "Milk",
+        "Tree Nuts"
+      ],
+      "mayContain": [],
+      "source": "Soy, Milk, Tree nuts"
+    },
+    {
+      "name": "Vanilla Wafers",
+      "category": "Shakes & Desserts",
+      "contains": [
+        "Soy",
+        "Eggs",
+        "Milk",
+        "Wheat"
+      ],
+      "mayContain": [],
+      "source": "Soy, Eggs, Milk, Wheat"
+    },
+    {
+      "name": "M&M",
+      "category": "Shakes & Desserts",
+      "contains": [
+        "Soy",
+        "Milk"
+      ],
+      "mayContain": [
+        "Peanuts"
+      ],
+      "source": "Soy, Milk, may contain Peanuts"
+    },
+    {
+      "name": "Reeses",
+      "category": "Shakes & Desserts",
+      "contains": [
+        "Soy",
+        "Milk",
+        "Peanuts"
+      ],
+      "mayContain": [],
+      "source": "Soy, Milk, Peanuts"
+    },
+    {
+      "name": "Snickers",
+      "category": "Shakes & Desserts",
+      "contains": [
+        "Soy",
+        "Eggs",
+        "Milk",
+        "Peanuts"
+      ],
+      "mayContain": [
+        "Wheat",
+        "Tree Nuts"
+      ],
+      "source": "Soy, Eggs, Milk, Peanuts, may contain Wheat and Tree nuts"
+    },
+    {
+      "name": "Butterfinger",
+      "category": "Shakes & Desserts",
+      "contains": [
+        "Soy",
+        "Milk",
+        "Peanuts"
+      ],
+      "mayContain": [],
+      "source": "Soy, Milk, Peanuts"
+    },
+    {
+      "name": "Walnut",
+      "category": "Shakes & Desserts",
+      "contains": [
+        "Tree Nuts"
+      ],
+      "mayContain": [],
+      "source": "Tree nuts"
+    },
+    {
+      "name": "Oreo",
+      "category": "Shakes & Desserts",
+      "contains": [
+        "Soy",
+        "Wheat"
+      ],
+      "mayContain": [],
+      "source": "Soy, Wheat"
+    },
+    {
+      "name": "Pumpkin Pie",
+      "category": "Shakes & Desserts",
+      "contains": [
+        "Soy",
+        "Eggs",
+        "Milk",
+        "Wheat"
+      ],
+      "mayContain": [],
+      "source": "Soy, Eggs, Milk, Wheat"
+    }
+  ]
+}
